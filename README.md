@@ -25,4 +25,4 @@ _Made with HTML/CSS/Bootstrap_
 ### License
 
 *Open MIT_
-Copyright (c) 2015 **_FW PC Epicodus_**
+Copyright (c) 2015 **_Franklin Waggoner_**
