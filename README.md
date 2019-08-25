@@ -10,7 +10,7 @@ _Began Introduction to Programming Evening class at Epicodus in August 2019._
 
 ## Setup/Installation Requirements
 
-* Basic HTML site
+_Basic HTML site_
 
 
 ## Known Bugs
